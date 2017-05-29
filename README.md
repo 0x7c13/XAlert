@@ -34,4 +34,4 @@ Alpha version uploaded.
 
 Copyright (c) Jiaqi Liu. All rights reserved.
 
-Licensed under the [MIT](LICENSE.txt) License.
+Licensed under the [MIT](https://github.com/JasonStein/XAlert/blob/master/LICENSE) License.
