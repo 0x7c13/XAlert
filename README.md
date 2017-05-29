@@ -12,7 +12,8 @@ The [`xalert`](https://github.com/JasonStein/xalert) repository is where I do de
 ## Build
 
 Simply use Visual Studio 2017 to open XAlert.sln from root folder and you are all set! (Visual Studio 2017 Community is free, in case you do not know)
-XCode project will be added later.
+
+* XCode project will be added later. 
 
 ## Contributing
 
@@ -23,6 +24,11 @@ If you are interested in fixing issues and contributing directly to the code bas
 * Request a new feature on GitHub.
 * File a bug in [GitHub Issues](https://github.com/JasonStein/xalert/issues).
 * E-mail me any time you like.
+
+## Changelog
+
+-0.1
+Alpha version uploaded.
 
 ## License
 
